@@ -5,3 +5,4 @@
 1. Two Sum
 2. Reverse Integer
 3. Palindrome Number
+4.Longest Common Prefix
