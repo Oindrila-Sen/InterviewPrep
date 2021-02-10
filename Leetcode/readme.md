@@ -6,3 +6,5 @@
 2. Reverse Integer
 3. Palindrome Number
 4. Longest Common Prefix
+5. Valid Parantheses
+
