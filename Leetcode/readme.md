@@ -9,5 +9,7 @@
 5. [Valid Parantheses](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/ValidParentheses.ipynb)
 6. [Merger Two Sorted Lists](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/Merge2SortedLists.ipynb)
 7. [Remove Duplicates From Sorted Array](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/RemoveDuplicates.ipynb)
+8. [Remove Element](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/RemoveElement.ipynb)
+
 
 
