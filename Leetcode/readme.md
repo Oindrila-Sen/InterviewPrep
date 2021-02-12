@@ -8,4 +8,6 @@
 4. [Longest Common Prefix](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/LongestCommonPrefix.ipynb)
 5. [Valid Parantheses](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/ValidParentheses.ipynb)
 6. [Merger Two Sorted Lists](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/Merge2SortedLists.ipynb)
+7. [Remove Duplicates From Sorted Array](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/RemoveDuplicates.ipynb)
+
 
