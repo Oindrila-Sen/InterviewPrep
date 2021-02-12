@@ -12,6 +12,7 @@
 8. [Remove Duplicates From Sorted Array](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/RemoveDuplicates.ipynb)
 9. [Remove Element](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/RemoveElement.ipynb)
 10. [Implement strStr](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/Implement_strStr.ipynb)
+11. [Search Insert Position](http://localhost:8888/notebooks/WORK_AREA/Data%20Science/InterviewPrep/Leetcode/SearchInsertPosition.ipynb)
 
 
 
