@@ -16,6 +16,7 @@
 12. [Maximum Sub Array](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/MaximumSubarray.ipynb)
 13. [Length Of Last Word](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/LenOfLastWord.ipynb)
 14. [Plus One](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/PlusOne.ipynb)
+15. [Add Binary](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/AddBinary.ipynb)
 
 
 
