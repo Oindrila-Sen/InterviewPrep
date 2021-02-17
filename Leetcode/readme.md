@@ -15,6 +15,8 @@
 11. [Search Insert Position](http://localhost:8888/notebooks/WORK_AREA/Data%20Science/InterviewPrep/Leetcode/SearchInsertPosition.ipynb)
 12. [Maximum Sub Array](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/MaximumSubarray.ipynb)
 13. [Length Of Last Word](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/LenOfLastWord.ipynb)
+14. [Plus One](https://github.com/Oindrila-Sen/InterviewPrep/blob/master/Leetcode/PlusOne.ipynb)
+
 
 
 
